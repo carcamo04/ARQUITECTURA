@@ -1,0 +1,19 @@
+inicio
+crear repositorio en la pag web
+seleccionar readme
+abre github computador
+selecciona su usuario a la izq del cuadro
+clonar repositorio
+seleccionar local arriba de su usuario a la izq del cuadro
+click open this repo
+ir a tools abrir shell
+mkdir nom_dir x3
+abre mis documentos /github/carpeta de repositorio
+va a las tres carpetas creadas e ingresa 3 archivos en cada una (txt para que suba rapido)
+en comandos: git add .
+git commit -m "comentario al azar"
+git remote add nombre_del_repositorio dirección_web_delRepositorio (ejemplo: https://github.com/ereyes95/ARQUITECTURA)
+git push nombre_del_repositorio master
+esperar
+actualizart pag web para revisar
+fin.
